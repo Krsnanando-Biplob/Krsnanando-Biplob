@@ -1,7 +1,12 @@
-<h1 align="center">Hi there 👋, My name is Krsnanando Biplob</h1>
-<h3 align="center">I am a web-developer with Django and React</h3>
+<h3 align="center">Hi there 👋, My name is Krsnanando Biplob</h3>
+<h4 align="center">I am a web-developer with Django and React</h4>
 
-<h3 align="left">Connect with me:</h3>
+<h3>About me!</h3>
+<p>Hello, I’m Biplob, My core skill is based on javaScript
+and I love to do most of the things with javaScript. I’m currently studying CSE engineering at Mymensingh Polytechnic Institute.
+</p>
+
+<h3 align="left">🌐 Socials !</h3>
 <p align="left">
 <a href="https://linkedin.com/in/krsnanando-biplob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krsnanando-biplob" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100025226506795" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="krsnanando biplob" height="30" width="40" /></a>
