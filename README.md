@@ -1,7 +1,7 @@
-<h3 align="center">Hi there 👋, My name is Krsnanando Biplob</h3>
+<h2 align="center">Hi there 👋, My name is Krsnanando Biplob</h2>
 <h4 align="center">I am a web-developer with Django and React</h4>
 
-<h3>About me!</h3>
+<h3>💫 About me!</h3>
 <p>Hello, I’m Biplob, My core skill is based on javaScript
 and I love to do most of the things with javaScript. I’m currently studying CSE engineering at Mymensingh Polytechnic Institute.
 </p>
