@@ -1,5 +1,5 @@
 <h2 align="center">Hi there 👋, My name is Krsnanando Biplob</h2>
-<h4 align="center">I am a web-developer with Django and React</h4>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I+am+a+web-developer+with+Django+and+React" alt="Typing SVG" /></a>
 
 <h3>💫 About me!</h3>
 <p>Hello, I’m Biplob, My core skill is based on javaScript
