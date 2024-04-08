@@ -33,5 +33,4 @@ and I love to do most of the things with javaScript. I’m currently studying CS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Krsnanando-Biplob&show_icons=true)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Krsnanando-Biplob/contributions?format=svg&private=false)  
 
